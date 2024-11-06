@@ -1,0 +1,207 @@
+:root {
+    --header-bg: #003366;
+    --btn-bg: #ff9900;
+    --body-bg: #f4f4f4;
+    --dark-color: #333;
+    --light-color: #fff;
+    --eee-color: #ccc;
+}
+
+* {
+    font-family: "Montserrat";
+}
+
+/* Контейнеры для фильтров и отображения общежития */
+.filter-container {
+    display: flex; /* Используем Flexbox для расположения элементов */
+    flex-wrap: wrap; /* Позволяет элементам переноситься на следующую строку */
+    gap: 15px; /* Автоматические отступы между элементами */
+    width: 90vw; /* Ширина контейнера 90% от ширины экрана */
+    margin: 20px auto;
+    border-radius: 10px; /* Закругленные углы для контейнеров */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Легкая тень для контейнеров */
+    background-color: rgba(255, 255, 255, 0.9); /* Полупрозрачный фон */
+    padding: 15px; /* Отступы внутри контейнеров */
+}
+
+.filter-container label {
+    margin: 0; /* Убираем отступы */
+    font-size: 1.1em; /* Увеличиваем размер шрифта */
+}
+
+.filter-container select,
+.filter-container button {
+    padding: 10px;
+    font-size: 1em; /* Уменьшаем размер шрифта для кнопок и селектов */
+    border: 1px solid var(--eee-color);
+    border-radius: 5px; /* Закругленные углы для кнопок и селектов */
+}
+
+.filter-container button {
+    background-color: var(--btn-bg);
+    color: var(--light-color);
+    cursor: pointer;
+    transition: background-color 0.3s; /* Плавный переход для кнопок */
+}
+
+.filter-container button:hover {
+    background-color: #e68a00; /* Утемнение кнопки при наведении */
+}
+
+/* Стили для summary */
+summary {
+    font-size: 1.2em; /* Размер шрифта для summary */
+    color: var(--dark-color); /* Темный цвет текста */
+    cursor: pointer; /* Курсор pointer для summary */
+    padding: 10px; /* Отступы внутри summary */
+    border-radius: 5px; /* Закругленные углы для summary */
+    background-color: rgba(240, 248, 255, 0.8); /* Полупрозрачный светло-голубой фон */
+    transition: background-color 0.3s; /* Плавный переход для фона */
+}
+
+summary:hover {
+    background-color: rgba(173, 216, 230, 0.9); /* Утемнение фона при наведении */
+}
+
+/* Блоки этажей */
+.floor-block {
+    background-color: rgba(173, 216, 230, 0.8); /* Светло-голубой фон для блоков этажей */
+    margin-bottom: 15px;
+    padding: 10px; /* Уменьшаем отступ для названия этажа */
+    border-radius: 10px; /* Закругленные углы для блоков этажей */
+}
+
+/* Блоки комнат */
+.room-block {
+    background-color: rgba(240, 248, 255, 0.9); /* Светло-голубой цвет для блоков комнат */
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+/* Заголовки */
+h2 {
+    margin: 0;
+    font-size: 1.5em; /* Увеличиваем размер заголовка для этажей */
+    color: var(--dark-color); /* Темный цвет текста */
+}
+
+h3 {
+    margin: 0;
+    font-size: 1.2em; /* Увеличиваем размер заголовка для комнат */
+}
+
+.table-display {
+    width: 85vw; /* Установите ширину контейнера в 100% для наилучшего отображения */
+    overflow-x: auto; /* Добавляем горизонтальную прокрутку */
+    max-width: 1200px; /* Максимальная ширина контейнера */
+    margin: 0 auto; /* Центрируем контейнер на странице */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* Легкая тень для таблицы */
+}
+
+
+/* Таблицы */
+table {
+    width: 90vw;
+    max-width: 1200px;
+    overflow-x: scroll;
+    border-collapse: collapse; /* Убираем двойные границы */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* Легкая тень для таблицы */
+}
+
+.wa-phone {
+    display: flex;
+    align-items: center;
+    column-gap: 10%;
+}
+
+.whatsapp-img {
+    filter: drop-shadow(0 0 2px #1f1f1f);
+    width: 30px;
+    height: 30px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-radius: 5px; /* Закругленные углы для ячеек */
+}
+
+th {
+    background-color: var(--header-bg); /* Цвет фона заголовков */
+    color: var(--light-color);
+    font-size: 1.1em; /* Увеличиваем размер шрифта заголовка */
+}
+
+td {
+    background-color: rgba(240, 240, 240, 0.8); /* Светлый фон для ячеек */
+    color: rgba(51, 51, 51, 0.9); /* Тёмный текст для ячеек */
+}
+
+/* Чередование цветов строк таблицы */
+tr:nth-child(even) td {
+    background-color: rgba(225, 225, 225, 0.5); /* Цвет для четных строк */
+}
+
+tr:nth-child(odd) td {
+    background-color: rgba(255, 255, 255, 0.5); /* Цвет для нечетных строк */
+}
+
+/* Кнопки удаления */
+.delete-btn {
+    background-color: var(--btn-bg);
+    color: var(--light-color);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Плавный переход для кнопок */
+}
+
+.delete-btn:hover {
+    background-color: #e68a00; /* Утемнение кнопки при наведении */
+}
+
+/* Адаптивный дизайн */
+@media (max-width: 600px) {
+    .filter-container {
+        width: 90vw; /* Ширина контейнера на мобильных устройствах */
+    }
+
+    .filter-container select,
+    .filter-container button {
+        width: 100%; /* Заполнение всей ширины на мобильных устройствах */
+    }
+
+    .floor-block,
+    .room-block {
+        padding: 8px; /* Меньший отступ на мобильных устройствах */
+    }
+
+    /* Уменьшаем шрифты на мобильных устройствах */
+    h2 {
+        font-size: 1.2em; /* Уменьшаем размер заголовка для этажей */
+    }
+
+    h3 {
+        font-size: 1em; /* Уменьшаем размер заголовка для комнат */
+    }
+
+    summary {
+        font-size: 1em; /* Уменьшаем размер шрифта для summary */
+    }
+
+    .filter-container label {
+        font-size: 0.9em; /* Уменьшаем размер шрифта для меток */
+    }
+
+    .filter-container select,
+    .filter-container button {
+        font-size: 0.9em; /* Уменьшаем размер шрифта для кнопок и селектов */
+    }
+
+    th, td {
+        font-size: 0.9em; /* Уменьшаем размер шрифта для ячеек таблицы */
+        padding: 8px; /* Уменьшаем отступы внутри ячеек */
+    }
+}

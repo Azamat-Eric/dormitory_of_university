@@ -1,0 +1,2058 @@
+[
+    {
+        "dormitory-name": "second",
+        "available-kurs": [
+            "2",
+            "3"
+        ],
+        "floors": {
+            "1": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "male",
+                "rooms": {
+                    "100": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "101": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "102": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "103": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "104": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "105": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "106": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "107": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "108": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "109": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "110": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "111": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "112": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "113": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "114": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "115": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "116": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "117": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "118": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "119": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "120": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "121": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "122": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "123": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "124": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "125": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "126": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "127": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "128": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "129": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "130": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "131": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "132": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "133": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "134": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "135": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "136": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "137": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "138": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "139": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "2": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "male",
+                "rooms": {
+                    "200": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "201": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "202": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "203": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "204": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "205": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "206": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "207": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "208": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "209": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "210": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "211": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "212": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "213": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "214": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "215": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "216": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "217": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "218": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "219": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "220": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "221": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "222": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "223": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "224": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "225": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "226": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "227": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "228": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "229": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "230": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "231": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "232": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "233": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "234": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "235": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "236": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "237": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "238": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "239": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "3": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "female",
+                "rooms": {
+                    "300": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "301": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "302": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "303": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "304": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "305": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "306": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "307": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "308": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "309": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "310": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "311": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "312": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "313": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "314": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "315": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "316": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "317": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "318": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "319": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "320": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "321": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "322": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "323": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "324": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "325": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "326": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "327": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "328": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "329": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "330": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "331": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "332": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "333": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "334": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "335": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "336": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "337": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "338": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "339": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "4": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "female",
+                "rooms": {
+                    "400": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "401": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "402": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "403": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "404": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "405": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "406": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "407": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "408": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "409": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "410": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "411": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "412": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "413": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "414": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "415": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "416": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "417": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "418": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "419": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "420": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "421": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "422": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "423": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "424": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "425": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "426": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "427": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "428": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "429": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "430": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "431": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "432": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "433": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "434": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "435": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "436": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "437": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "438": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "439": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "5": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "male",
+                "rooms": {
+                    "500": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "501": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "502": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "503": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "504": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "505": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "506": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "507": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "508": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "509": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "510": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "511": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "512": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "513": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "514": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "515": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "516": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "517": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "518": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "519": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "520": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "521": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "522": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "523": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "524": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "525": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "526": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "527": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "528": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "529": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "530": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "531": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "532": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "533": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "534": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "535": {
+                        "capacity": "4",
+                        "students": []
+                    }
+                }
+            }
+        }
+    },
+    {
+        "dormitory-name": "first",
+        "available-kurs": [
+            "1",
+            "4"
+        ],
+        "floors": {
+            "1": {
+                "floor-room-count": "40",
+                "floor-room-free": 39,
+                "floor-gender": "male",
+                "rooms": {
+                    "100": {
+                        "capacity": "4",
+                        "free-places": 3,
+                        "students": [
+                            {
+                                "fullname": "\u0410\u0437\u0430\u043c\u0430\u0442 \u0415\u0440\u0438\u043a\u043e\u0432\u0438\u0447 \u0422\u0443\u0440\u0434\u044b\u0431\u0430\u0435\u0432",
+                                "kurs": "1",
+                                "group": "\u041f\u0418-21\u041a-2",
+                                "phone": "+77053013276",
+                                "email": "a.turdybayev@tttu.edu.kz",
+                                "gen": "male",
+                                "booking_date": "18.10.2024"
+                            }
+                        ]
+                    },
+                    "101": {
+                        "capacity": "4",
+                        "free-places": 4,
+                        "students": []
+                    },
+                    "102": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "103": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "104": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "105": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "106": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "107": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "108": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "109": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "110": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "111": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "112": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "113": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "114": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "115": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "116": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "117": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "118": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "119": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "120": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "121": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "122": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "123": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "124": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "125": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "126": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "127": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "128": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "129": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "130": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "131": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "132": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "133": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "134": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "135": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "136": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "137": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "138": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "139": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "2": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "female",
+                "rooms": {
+                    "200": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "201": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "202": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "203": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "204": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "205": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "206": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "207": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "208": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "209": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "210": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "211": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "212": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "213": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "214": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "215": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "216": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "217": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "218": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "219": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "220": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "221": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "222": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "223": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "224": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "225": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "226": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "227": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "228": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "229": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "230": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "231": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "232": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "233": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "234": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "235": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "236": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "237": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "238": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "239": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "3": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "male",
+                "rooms": {
+                    "300": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "301": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "302": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "303": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "304": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "305": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "306": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "307": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "308": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "309": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "310": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "311": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "312": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "313": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "314": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "315": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "316": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "317": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "318": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "319": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "320": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "321": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "322": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "323": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "324": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "325": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "326": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "327": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "328": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "329": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "330": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "331": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "332": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "333": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "334": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "335": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "336": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "337": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "338": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "339": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "4": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "female",
+                "rooms": {
+                    "400": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "401": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "402": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "403": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "404": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "405": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "406": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "407": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "408": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "409": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "410": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "411": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "412": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "413": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "414": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "415": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "416": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "417": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "418": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "419": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "420": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "421": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "422": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "423": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "424": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "425": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "426": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "427": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "428": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "429": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "430": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "431": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "432": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "433": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "434": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "435": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "436": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "437": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "438": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "439": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    }
+                }
+            },
+            "5": {
+                "floor-room-count": "40",
+                "floor-room-free": "40",
+                "floor-gender": "male",
+                "rooms": {
+                    "500": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "501": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "502": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "503": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "504": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "505": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "506": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "507": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "508": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "509": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "510": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "511": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "512": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "513": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "514": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "515": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "516": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "517": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "518": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "519": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "520": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "521": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "522": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "523": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "524": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "525": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "526": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "527": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "528": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "529": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "530": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "531": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "532": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "533": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "534": {
+                        "capacity": "4",
+                        "free-places": "4",
+                        "students": []
+                    },
+                    "535": {
+                        "capacity": "4",
+                        "students": []
+                    }
+                }
+            }
+        }
+    }
+]

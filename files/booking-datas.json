@@ -1,0 +1,64 @@
+{
+    "first": [
+        {
+            "floor": 1,
+            "room": [
+                {
+                    "number": 101,
+                    "capacity": 4,
+                    "free-places": 2,
+                    "students": [
+                        {
+                            "fullname": "Азатов Сержан Сержанович",
+                            "curs": "1",
+                            "phone": "87057705647",
+                            "group": "ЭПО-24к",
+                            "email": "serzhan@gmail.com",
+                            "booking_date": "10.08.2024",
+                            "id": "10082024ASOPDD",
+                            "gender": "male"
+                        },
+                        {
+                            "fullname": "Маликов Данияр",
+                            "curs": "4",
+                            "phone": "87057709087",
+                            "group": "ЭПО-21к",
+                            "email": "daniyar@gmail.com",
+                            "booking_date": "12.08.2024",
+                            "id": "10082024ASOPHY",
+                            "gender": "male"
+                        }
+                    ]
+                },
+                {
+                    "number": 138,
+                    "capacity": 4,
+                    "free": 2,
+                    "students": [
+                        {
+                            "fullname": "Азатов Бақыт",
+                            "curs": "1",
+                            "phone": "87057705647",
+                            "group": "ТИ-24к",
+                            "email": "er@gmail.com",
+                            "booking_date": "7.08.2024",
+                            "id": "10082024ASOPOP",
+                            "gender": "male"
+                        },
+                        {
+                            "fullname": "Маликов Ақылбек",
+                            "curs": "4",
+                            "phone": "87057709087",
+                            "group": "ТОП-21к",
+                            "email": "aq@gmail.com",
+                            "booking_date": "18.08.2024",
+                            "id": "10082024ASOPPO",
+                            "gender": "male"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "second": []
+}

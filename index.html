@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="1000">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title class=" translateable">КарИУ - Бронирование общежитии</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="images/logo-ideal2.svg" type="image/x-icon">
+</head>
+
+<body>
+
+    <div class="header">
+        <div class="header-inner">
+            <div class="logo">
+                <img src="images/logo-ideal2.svg" alt="" class="logo-img">
+                <span class="logo-text translateable">КАРАГАНДИНСКИЙ ИНДУСТРИАЛЬНЫЙ УНИВЕРСИТЕТ</span>
+            </div>
+            <div class="navs">
+                <a href="/index.html" class="nav nav-changed translateable">Главная</a>
+                <a href="booking/booking.php" class="nav translateable">Бронирование</a>
+                <a href="booking/success_page/success_page.php" class="nav translateable">Мои заказы</a>
+                <a href="login/login.php" class="nav translateable">Вход</a>
+            </div>
+            <div class="nav" id="language">
+                <span onclick="language_changed('kk')" id="kk" class="lang kk">ҚАЗ</span>
+                <span onclick="language_changed('ru')" id="ru" class="lang ru changed_language">РУС</span>
+                <span onclick="language_changed('en')" id="en" class="lang en">ENG</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <section class="hero">
+            <div class="hero-content">
+                <h2 class=" translateable">Добро пожаловать в систему бронирования комнат</h2>
+                <p class=" translateable">Бронируйте комнату быстро и легко.</p>
+                <a href="booking/booking.php" class="btn translateable">Забронировать сейчас</a>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <h3 class=" translateable">Легкость бронирования</h3>
+                <p class=" translateable">Забронируйте комнату всего за несколько кликов.</p>
+            </div>
+            <div class="feature">
+                <h3 class=" translateable">Доступность в реальном времени</h3>
+                <p class=" translateable">Проверьте доступность комнат мгновенно.</p>
+            </div>
+            <div class="feature">
+                <h3 class=" translateable">Безопасность и надежность</h3>
+                <p class=" translateable">Ваша информация о бронировании в безопасности у нас.</p>
+            </div>
+        </section>
+
+        <section class="hostel-info">
+            <h2 class=" translateable">Адреса общежитий</h2>
+            <div class="hostel-info-inner">
+                <div class="hostel">
+                    <h3 class=" translateable">Общежитие 1</h3>
+                    <p class=" translateable">Улица Олега Тищенко, 41, Темиртау, Карагандинская область</p>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d905.4461087439904!2d72.98157475666676!3d50.06778012376278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4243585d6f6b584b%3A0x5f511658a6c3e0a!2z0J7QsdGJ0LXQttC40YLQuNC1IOKEljEsINCa0JPQmNCj!5e0!3m2!1sru!2skz!4v1723133097171!5m2!1sru!2skz"
+                        width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div class="hostel">
+                    <h3 class=" translateable">Общежитие 2</h3>
+                    <p class=" translateable">Улица Олега Тищенко, 35, Темиртау, Карагандинская область</p>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.8338282011549!2d72.9841664736129!3d50.06772604635354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x42435842caa858a5%3A0x1a390de77b413c0f!2z0J7QsdGI0LXQttC40YLQuNGPIDIsINCa0JPQmNCj!5e0!3m2!1sru!2skz!4v1723133142241!5m2!1sru!2skz"
+                        width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="footer-inner">
+            <p>&copy; <span class="translateable">2024 КАРАГАНДИНСКИЙ ИНДУСТРИАЛЬНЫЙ УНИВЕРСИТЕТ. Все права
+                    защищены.</span></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script type="module" src="admin_panel/dormitory-set.js"></script>
+</body>
+
+</html>

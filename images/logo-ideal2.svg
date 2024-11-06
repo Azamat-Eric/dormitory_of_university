@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4944.45 4001.82">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: CascadiaMono-Roman, 'Cascadia Mono';
+        font-size: 550px;
+        font-variation-settings: 'wght' 400;
+        letter-spacing: .1em;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <path class="cls-1" d="m1131.31,638.59h-548.38v-243.02h1381.92v243.02h-548.38v1174.61h-285.16V638.59Z"/>
+      <path class="cls-1" d="m3465.87,640.15h-550.63v-244.58h1387.58v244.58h-550.63v1182.16h-286.33V640.15Z"/>
+      <path class="cls-1" d="m2278.32,281.35h-640.03V0h1612.87v281.35h-640.03v1359.88h-332.82V281.35Z"/>
+      <path class="cls-1" d="m1638.29,1646.19v-828.75h317.69v828.75c0,309.4,183.28,486.2,488.75,486.2,329.91,0,488.75-174.59,488.75-486.2v-828.75h317.69v828.75c0,430.95-256.59,762.45-806.44,762.45s-806.44-331.5-806.44-762.45Z"/>
+      <path class="cls-1" d="m1127.81,867.9h292.14v1546.65h-292.14V867.9Z"/>
+      <path class="cls-1" d="m3465.87,867.9h288.93v1546.65h-288.93V867.9Z"/>
+      <path class="cls-1" d="m2278.32,484.81h332.82v1502.98h-332.82V484.81Z"/>
+    </g>
+    <text class="cls-2" transform="translate(20 3082.53)"><tspan x="0" y="0">TEMIRTAU TECH</tspan><tspan x="565.9" y="660">UNIVERSITY</tspan></text>
+  </g>
+</svg>

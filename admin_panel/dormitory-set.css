@@ -1,0 +1,407 @@
+:root {
+  --header-bg: #003366;
+  --btn-bg: #ff9900;
+  --dark-color: #333;
+  --light-color: #fff;
+  --eee-color: #ccc;
+  --highlight-bg: #414141;
+  --floor-bg: #ffffff;
+  --room-bg: #f5f9ff;
+  --squart-bg: #ffcc00;
+  --squart-border: #999;
+}
+
+.lang {
+  cursor: pointer;
+}
+
+.message-notification {
+  position: absolute;
+  display: hidden;
+  top: -150px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 100px;
+  background: rgba(0, 54, 134, .7);
+  filter: invert();
+  z-index: 10;
+  border-radius: 4px;
+  color: #eee;
+  transition: all 1s;
+  opacity: 0;
+
+}
+
+* {
+  font-family: "Montserrat";
+}
+
+body {
+  filter: invert(0);
+  /* width: 100vw; */
+  min-height: 100vh;
+  background-color: #fff;
+  overflow-x: hidden;
+}
+
+/* Основные стили для формы */
+form {
+  width: 80vw;
+  margin: 20px 5%;
+  padding: 20px;
+  border: 0px solid #ccc;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  box-shadow: 2px 2px 2px rgb(236, 237, 255);
+}
+
+select,
+input,
+textarea {
+  outline: 0;
+  color: #444;
+}
+
+/* Заголовок формы */
+.form-title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* Основные контейнеры */
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.main-settings {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#dormitory-name {
+  padding: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.available-kurses {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+#available-kurses {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.available-kurses label {
+  display: flex;
+  align-items: center;
+  gap: 1px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.available-kurses input {
+  width: 15px;
+  height: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Стили для этажей */
+.floors-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.floor {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.floor-info {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 15px;
+  row-gap: 10px;
+  align-items: center;
+}
+
+.floor-number {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#floor-room-count {
+  width: 70px;
+  border: 1px solid rgb(0, 0, 0, .2);
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.floor-gender select,
+.rooms input[type="number"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Стили для комнат */
+.rooms {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  gap: 20px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.rooms::-webkit-scrollbar,
+.notify textarea::-webkit-scrollbar {
+  background-color: #e4e8ff;
+  height: 8px;
+  border-radius: 14px;
+}
+
+.rooms::-webkit-scrollbar-thumb,
+.notify textarea::-webkit-scrollbar-thumb {
+  background-color: #96a6ff;
+  height: 8px;
+  border-radius: 14px;
+}
+
+.room {
+  padding: 10px;
+  border: 0px solid #ccc;
+  border-radius: 8px;
+  background: linear-gradient(120deg, #eff5ff, #fff);
+  box-shadow: 1px 1px 3px rgb(0, 0, 0, .1);
+  width: 170px;
+}
+
+.room-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  align-items: center;
+}
+
+.room-number {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.room-capacity {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.room-capacity input[type="number"] {
+  width: 45px;
+  border: 0px solid #c4cfff;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 16px;
+  background-color: transparent;
+  font-weight: 600;
+}
+
+.form-btns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(100px, 1fr));
+  width: clamp(250px, 50%, 100%);
+  column-gap: 20px;
+  row-gap: 5px;
+  justify-self: center;
+  font-size: clamp(12px, 2vw, 16px);
+}
+
+/* Стили для кнопок */
+button[type="submit"],
+.cancel-btn {
+  display: block;
+  padding: 10px;
+  background-color: #4c60af;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.cancel-btn {
+  background-color: #414141;
+}
+
+button[type="submit"]:hover {
+  background-color: #4553a0;
+}
+
+.room-visual {
+  width: 100%;
+  margin-top: clamp(15px, 2vw, 20px);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 30px;
+}
+
+.squart {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 4px;
+  font-weight: 600;
+  color: rgb(70, 70, 70);
+  cursor: pointer;
+  box-shadow: inset 0 0 5px rgba(172, 172, 172, 0.867), 0 0 3px #d2e3ff;
+  user-select: none;
+  transition: all .2s ease-in-out;
+}
+
+.squart:hover {
+  box-shadow: inset 0 0 2px rgba(172, 172, 172, .3);
+  transform: scale(1.09);
+  transition: all .2s ease-in-out;
+}
+
+
+
+summary {
+  font-size: clamp(18px, 2vw, 20px);
+  margin: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  user-select: none;
+}
+
+.rules-container {
+  width: clamp(300px, 80vw, 100vw);
+  /* Ограничиваем максимальную ширину контейнера */
+  margin: 20px 5vw;
+  /* Центрируем контейнер и добавляем отступ сверху */
+  padding: 10px;
+  /* Внутренний отступ контейнера */
+  background-color: #ffffff;
+  /* Белый фон для контейнера */
+  border-radius: 8px;
+  /* Скругляем углы контейнера */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  /* Легкая тень для объема */
+}
+
+.rules {
+  list-style-type: none;
+  /* Убираем маркеры списка */
+  padding: 0;
+  /* Убираем отступы */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  /* Задаем шрифт */
+}
+
+.rules li {
+  background-color: #f0f8ff;
+  /* Светло-голубой фон для элементов списка */
+  border-left: 4px solid #1e90ff;
+  /* Голубая вертикальная линия слева */
+  margin-bottom: 10px;
+  /* Отступ между элементами */
+  padding: 10px 15px;
+  /* Внутренний отступ (больше по горизонтали) */
+  border-radius: 5px;
+  /* Скругляем углы */
+}
+
+.rules li h3 {
+  color: #1e90ff;
+  /* Синий цвет для заголовков */
+  margin-top: 0;
+  /* Убираем отступ сверху */
+  margin-bottom: 8px;
+  /* Отступ снизу у заголовка */
+  font-size: 16px;
+  /* Размер шрифта заголовков */
+  border-bottom: 2px solid #1e90ff;
+  /* Подчеркнутый синим цветом заголовок */
+  padding-bottom: 4px;
+  /* Отступ снизу для заголовка */
+}
+
+.rules li p {
+  color: #333;
+  /* Темно-серый цвет текста */
+  line-height: 1.5;
+  /* Интерлиньяж для удобства чтения */
+  margin: 0;
+  /* Убираем отступы у текста */
+}
+
+.notify {
+  width: clamp(200px, 78vw, 100vw);
+  min-height: 50px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  overflow-x: hidden;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.text {
+  padding: 10px;
+  width: 77vw;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: white;
+}
+
+.notify textarea {
+  width: 75vw;
+  height: auto;
+  resize: vertical;
+  border: none;
+  font-family: 'Montserrat';
+  font-size: clamp(15px, 2vw, 20px);
+}
+
+@media screen and (max-width: 1300px) {
+  .text {
+    width: clamp(200px, 80vw, 1100px);
+    margin-left: -10px;
+  }
+
+  .text textarea {
+    width: 60vw;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .text {
+    width: clamp(250px,);
+    margin-left: -10px;
+  }
+
+  .text textarea {
+    width: 65vw;
+  }
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "role": "first",
+        "username": "admin",
+        "password": "admin",
+        "tries": 3,
+        "last_error": "",
+        "initials": "Битасова Кулжан Усенбековна",
+        "phone_number": "+77009921140",
+        "email": "",
+        "profile_image": "..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/default-avatar.svg"
+    },
+    {
+        "role": "second",
+        "username": "admin2",
+        "password": "admin2",
+        "tries": 3,
+        "last_error": "",
+        "initials": "Бекмуратова Несибили Оринбасаровна",
+        "phone_number": "+77055894126",
+        "email": "",
+        "profile_image": "..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/..\/images\/default-avatar.svg"
+    }
+]

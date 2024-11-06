@@ -1,0 +1,95 @@
+.container {
+    background-color: var(--light-color); /* Фон блока */
+    border-radius: 10px; /* Скругление углов */
+    padding: 20px; /* Внутренние отступы */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Тень для эффекта глубины */
+    width: 90%; /* Ширина блока 90% от ширины экрана */
+    margin: 20px auto; /* Центрирование блока */
+    min-height: 500px;
+}
+
+h2 {
+    color: var(--header-bg); /* Цвет заголовка */
+    margin-bottom: 15px; /* Отступ снизу */
+}
+
+table {
+    width: 100%; /* Полная ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные границы */
+    margin-top: 20px; /* Отступ сверху */
+    border-radius: 5px; /* Скругление углов таблицы */
+    overflow: hidden; /* Убираем переполнение */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Тень для таблицы */
+}
+
+th, td {
+    border: 1px solid var(--eee-color); /* Цвет границы ячеек */
+    padding: 12px; /* Внутренние отступы */
+    text-align: left; /* Выравнивание текста в ячейках */
+    color: var(--dark-color); /* Цвет текста ячеек */
+}
+
+th {
+    background-color: var(--header-bg); /* Фон заголовков таблицы */
+    color: var(--light-color); /* Цвет текста заголовков */
+    font-weight: 700; /* Жирный шрифт заголовков */
+}
+
+tr:nth-child(even) {
+    background-color: rgba(240, 240, 240, 0.7); /* Фон четных строк с легкой прозрачностью */
+}
+
+tr:hover {
+    background-color: rgba(255, 153, 0, 0.2); /* Цвет фона строки при наведении */
+}
+
+.search-form {
+    background-color: var(--light-color); /* Фон формы */
+    border-radius: 10px; /* Скругление углов */
+    padding: 20px; /* Внутренние отступы */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Тень для эффекта глубины */
+    width: 90%; /* Ширина блока 90% от ширины экрана */
+    margin: 20px auto; /* Центрирование блока */
+}
+
+form {
+    display: flex; /* Используем flexbox для размещения элементов */
+    align-items: center; /* Вертикальное выравнивание по центру */
+    gap: 10px; /* Пробел между элементами формы */
+}
+
+label {
+    font-weight: 700; /* Жирный шрифт для меток */
+    color: var(--dark-color); /* Цвет текста меток */
+    margin: 0; /* Убираем отступы */
+}
+
+input[type="text"] {
+    padding: 8px; /* Внутренние отступы для поля ввода */
+    border: 1px solid var(--eee-color); /* Цвет границы */
+    border-radius: 5px; /* Скругление углов поля ввода */
+    transition: border-color 0.3s; /* Плавный переход цвета границы */
+    font-size: 14px; /* Размер шрифта */
+    width: 200px; /* Фиксированная ширина для компактности */
+}
+
+input[type="text"]:focus {
+    border-color: var(--btn-bg); /* Цвет границы при фокусировке */
+    outline: none; /* Убираем стандартный обвод */
+}
+
+.button {
+    background-color: var(--btn-bg); /* Фоновый цвет кнопки */
+    color: var(--light-color); /* Цвет текста кнопки */
+    border: none; /* Убираем границу */
+    padding: 8px 15px; /* Внутренние отступы */
+    cursor: pointer; /* Курсор в виде указателя */
+    border-radius: 5px; /* Скругление углов кнопки */
+    transition: background-color 0.3s, transform 0.2s; /* Плавный переход */
+    font-size: 14px; /* Размер шрифта кнопки */
+}
+
+.button:hover {
+    background-color: darkorange; /* Цвет кнопки при наведении */
+    transform: scale(1.05); /* Увеличение кнопки при наведении */
+}
